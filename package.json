@@ -12,7 +12,8 @@
     "@notionhq/client": "^2.2.12",
     "@types/node": "^20.5.9",
     "axios": "^1.6.7",
-    "axios-retry": "^4.0.0"
+    "axios-retry": "^4.0.0",
+    "ts-node": "^10.9.2"
   },
   "keywords": [],
   "devDependencies": {
