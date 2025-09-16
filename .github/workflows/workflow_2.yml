@@ -60,7 +60,7 @@ jobs:
                   git config user.email '${{ vars.GIT_USER_EMAIL }}'
                   git add .
                   git commit -m "Update metadata" || echo "No changes to commit in current repo"
-                  git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ vars.GIT_USER_NAME }}/Notion-to-Markdown.git
+                  git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ vars.GIT_USER_NAME }}/JaesangKim000.github.io.git
                   git push origin HEAD:master
 
             - name: Set Git remote URL with token and Commit and Push Changes
