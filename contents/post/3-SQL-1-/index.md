@@ -5,7 +5,7 @@ tags:
   - Postgresql
 description: "DBMS 학습"
 series: "데이터베이스개론"
-update: "2025-09-16T18:11:00.000Z"
+update: "2025-09-16T18:36:00.000Z"
 date: "2025-09-17"
 상태: "Ready"
 title: "3. SQL ( 1 )"
@@ -13,6 +13,8 @@ title: "3. SQL ( 1 )"
 
 
 이전에 배운 Relational Model과 관계 대수를 이용하여 SQL을 배웠다
+
+… 
 
 ### 1. DDL
 
